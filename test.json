@@ -1,0 +1,53 @@
+{
+  "family_info": {
+    "dad": "hyuntae",
+    "mom": "minjoo",
+    "child": [
+      {
+        "son": "heungmin"
+      },
+      {
+        "daughter": [
+          {
+            "name": "sujin",
+            "old": 5
+          },
+          {
+            "name": "hajin",
+            "old": 7
+          }
+        ]
+      }
+    ],
+    "properties": [
+      {
+        "car_1": [
+          {
+            "maker": "hyundai",
+            "model": "avante",
+            "plate_number": "7777",
+            "hp": 150
+          }
+        ],
+        "car_2": [
+          {
+            "maker": "kia",
+            "model": "carnival",
+            "plate_number": "8888",
+            "hp": 180
+          }
+        ]
+      },
+      {
+        "house": [
+          {
+            "location": "seoul",
+            "width": "100X100",
+            "height": "8",
+            "price": "13"
+          }
+        ]
+      }
+    ]
+  }
+}
